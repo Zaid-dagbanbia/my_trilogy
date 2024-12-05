@@ -1,4 +1,7 @@
 @charset "UTF-8";
+/* @import "base";
+@import "components";
+@import "layout";  */
 /*
 COLORS
 
@@ -64,6 +67,9 @@ body {
   min-height: 100vh;
 }
 
+/* @import "base";
+@import "components";
+@import "layout";  */
 .logo {
   height: 3.25rem;
   margin-left: 2rem;
@@ -553,6 +559,9 @@ border-bottom:var(--line) .overview__heading {
   animation: pulsate 1s infinite;
 }
 
+/* @import "base";
+@import "components";
+@import "layout";  */
 .container {
   max-width: 120rem;
   margin: 8rem auto;
@@ -651,4 +660,4 @@ border-bottom:var(--line) .overview__heading {
   align-items: center;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.comp.css.map */
